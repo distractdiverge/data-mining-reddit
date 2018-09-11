@@ -7,3 +7,5 @@ reddit = praw.Reddit(client_id=REDDIT_CLIENT_ID,
                      user_agent=REDDIT_USER_AGENT)
 
 print(reddit.read_only)  # Output: True)
+
+print(reddit.get('/r/nootropics'))
