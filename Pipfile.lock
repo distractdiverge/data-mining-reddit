@@ -18,10 +18,10 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:376690d6f16d32f9d1fe8932551d80b23e9d393a8578c5633a2ed39a64861638",
-                "sha256:456048c7e371c089d0a77a5212fb37a2c2dce1e24146e3b7e0261736aaeaa22a"
+                "sha256:1a4995114262bffbc2413b159f2a1a480c969de6e6eb13ee966d470af86af59c",
+                "sha256:719a74fb9e33b9bd44cc7f3a8d94bc35e4049deebe19ba7d8e108280cfd59830"
             ],
-            "version": "==2018.8.24"
+            "version": "==2020.12.5"
         },
         "chardet": {
             "hashes": [
@@ -47,11 +47,10 @@
         },
         "prawcore": {
             "hashes": [
-                "sha256:00bb9d61b5653a4614dce22eabe312e565aac08619d23a961bdcaf32367ed69a",
-                "sha256:a9e84be5c58daf62dc5f8f11563bf63484066d0f6e60a07be33678a8ccab804b"
+                "sha256:1f1eafc8a65d671f9892354f73142014fbb5d3a9ee621568c662d0a354e0578b",
+                "sha256:672d8a2faa12b44307874b2acfdd27f9cbaa5fa37bada4b34e36277224e6d8ed"
             ],
-            "markers": "python_version != '3.3.*' and python_version != '3.2.*' and python_version >= '2.6' and python_version < '4' and python_version != '3.1.*' and python_version != '3.0.*'",
-            "version": "==1.0.0"
+            "version": "==1.5.0"
         },
         "python-dotenv": {
             "hashes": [
@@ -63,27 +62,25 @@
         },
         "requests": {
             "hashes": [
-                "sha256:63b52e3c866428a224f97cab011de738c36aec0185aa91cfacd418b5d58911d1",
-                "sha256:ec22d826a36ed72a7358ff3fe56cbd4ba69dd7a6718ffd450ff0e9df7a47ce6a"
+                "sha256:99dcfdaaeb17caf6e526f32b6a7b780461512ab3f1d992187801694cba42770c",
+                "sha256:a84b8c9ab6239b578f22d1c21d51b696dcfe004032bb80ea832398d6909d7279"
             ],
-            "markers": "python_version != '3.3.*' and python_version != '3.2.*' and python_version >= '2.6' and python_version < '4' and python_version != '3.1.*' and python_version != '3.0.*'",
-            "version": "==2.19.1"
+            "index": "pypi",
+            "version": "==2.20.0"
         },
         "update-checker": {
             "hashes": [
-                "sha256:59cfad7f9a0ee99f95f1dfc60f55bf184937bcab46a7270341c2c33695572453",
-                "sha256:70e39446fccf77b21192cf7a8214051fa93a636dc3b5c8b602b589d100a168b8"
+                "sha256:6a2d45bb4ac585884a6b03f9eade9161cedd9e8111545141e9aa9058932acb13",
+                "sha256:cbba64760a36fe2640d80d85306e8fe82b6816659190993b7bdabadee4d4bbfd"
             ],
-            "markers": "python_version != '3.3.*' and python_version != '3.2.*' and python_version >= '2.6' and python_version < '4' and python_version != '3.1.*' and python_version != '3.0.*'",
-            "version": "==0.16"
+            "version": "==0.18.0"
         },
         "urllib3": {
             "hashes": [
-                "sha256:a68ac5e15e76e7e5dd2b8f94007233e01effe3e50e8daddf69acfd81cb686baf",
-                "sha256:b5725a0bd4ba422ab0e66e89e030c806576753ea3ee08554382c14e685d117b5"
+                "sha256:2393a695cd12afedd0dcb26fe5d50d0cf248e5a66f75dbd89a3d4eb333a61af4",
+                "sha256:a637e5fae88995b256e3409dc4d52c2e2e0ba32c42a6365fee8bbd2238de3cfb"
             ],
-            "markers": "python_version != '3.3.*' and python_version != '3.2.*' and python_version >= '2.6' and python_version < '4' and python_version != '3.1.*' and python_version != '3.0.*'",
-            "version": "==1.23"
+            "version": "==1.24.3"
         }
     },
     "develop": {}
